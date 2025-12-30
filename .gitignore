@@ -1,0 +1,27 @@
+# Archivos temporales del sistema
+*.tmp
+*.temp
+*.swp
+*~
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de backup
+*.backup
+*.bak
+
+# Carpeta de archivos grandes de simulación (no subir)
+/Simulator_Addons/
+/MSFS_Mods/
+/XPlane_Plugins/
+
+# Logs y archivos de datos temporales
+*.log
+*.dat
+
+# Archivos compilados/ejecutables (si hubiera código)
+*.exe
+*.bin
+*.hex
